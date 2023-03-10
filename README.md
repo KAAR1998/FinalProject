@@ -51,11 +51,11 @@ The dataset includes 11 columns and 53,940 rows
 # Contents of this Repository- 
 
 - Notebooks-
-  - Jupyter Notebook of the code used to apply all of the steps outlined above in the "Process" section 
+   - Jupyter Notebook of the code used to apply all of the steps outlined above in the "Process" section 
 - Data- 
-  - A copy of the original data in the "Raw" folder 
-  - A copy of the cleaned data in the "Clean" folder 
+   - A copy of the original data in the "Raw" folder 
+   - A copy of the cleaned data in the "Clean" folder 
  - Models and Scalers- 
-  - Pickle files of the predictive models and pre-processing steps (e.g. scaling, transforming) used to create the models 
+    - Pickle files of the predictive models and pre-processing steps (e.g. scaling, transforming) used to create the models 
  - App- 
-  - A copy of the Python file and code used to create the diamond predictor application using Streamlit  
+    - A copy of the Python file and code used to create the diamond predictor application using Streamlit  
