@@ -4,6 +4,16 @@ Using a dataset of close to 54,000 diamonds' prices and attributes I conducted d
 
 Once the optimal model had been found, I applied it towards building an application that effectively predicts the price of your diamond if all the necessary attributes are are entered. 
 
+# Contents of this Repository- 
+
+- Notebooks-
+   - Jupyter Notebook of the code used to apply all of the steps outlined below in the "Process" section 
+- Data- 
+   - A copy of the original data in the "Raw" folder 
+   - A copy of the cleaned data in the "Clean" folder 
+ - Models and Scalers- 
+    - Files of certain useful predictive models and pre-processing steps (e.g. scaling, transforming) used to create the models 
+
 #  Data 
 
 The dataset was taken from  Kaggle and can be found here- https://www.kaggle.com/datasets/shivam2503/diamonds. (Author: Shivam Agrawal) 
@@ -22,16 +32,6 @@ The dataset includes 11 columns and 53,940 rows.
   - y- Width (mm)
   - z- Depth (mm)
     
-# Contents of this Repository- 
-
-- Notebooks-
-   - Jupyter Notebook of the code used to apply all of the steps outlined below in the "Process" section 
-- Data- 
-   - A copy of the original data in the "Raw" folder 
-   - A copy of the cleaned data in the "Clean" folder 
- - Models and Scalers- 
-    - Files of certain useful predictive models and pre-processing steps (e.g. scaling, transforming) used to create the models 
-
 # Process- 
 
 - Cleaned and processed the raw data
