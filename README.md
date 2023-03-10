@@ -12,11 +12,11 @@ The dataset includes 11 columns and 53,940 rows
 
 ## Columns-
   - Carat Weight 
-  - Cut- Quality of the Cut (Fair, Good, Very Good, Premium, Ideal)
-  - Color- Color of Diamond from J (Worst) to D (Best)
-  - Clarity- Clarity of Diamond (I1 (Worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (Best))
-  - Depth- Total Depth Percentage = z / mean(x, y) = 2 * z / (x + y) 
-  - Table- Width of top of diamond relative to widest point 
+  - Cut- Quality of the Cut (Ideal (Best), Premium, Very Good, Good, Fair (Worst))
+  - Color- Color of Diamond from (D (Best), E, F, G, H, I J (Worst)) 
+  - Clarity- Clarity of Diamond (IF (Best), VVS1, VVS2, VS1, VS2, SI1, SI2, I1 (Worst)) 
+  - Depth- Total Depth Percentage (TDP = z / mean(x, y) = 2 * z / (x + y))
+  - Table- Width of top of diamond relative to widest point  
   - Price- USD ($)
   - x- Length (mm) 
   - y- Width (mm)
