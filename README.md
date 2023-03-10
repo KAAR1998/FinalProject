@@ -1,8 +1,8 @@
-# Final Project- Analysis and predictions on the price of a diamond 
+# Ironhack Final Project- Analysis and Predictions on the price of a diamond 
 
 Using a dataset of close to 54,000 diamonds' prices and attributes I conducted data analysis, visualisation and numerous predictions to find the optimal model to predict the price of a diamond based on their characteristics. 
 
-Once the optimal model had been found, I applied it towards building an application that effectively predicts the price of your diamond if all the necessary attributes are are entered. The code for the building of the application can be found in the "app" folder within this repository. 
+Once the optimal model had been found, I applied it towards building an application that effectively predicts the price of your diamond if all the necessary attributes are are entered. 
 
 #  Data 
 
@@ -57,5 +57,3 @@ The dataset includes 11 columns and 53,940 rows
    - A copy of the cleaned data in the "Clean" folder 
  - Models and Scalers- 
     - Pickle files of the predictive models and pre-processing steps (e.g. scaling, transforming) used to create the models 
- - App- 
-    - A copy of the Python file and code used to create the diamond predictor application using Streamlit  
