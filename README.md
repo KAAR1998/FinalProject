@@ -22,7 +22,16 @@ The dataset includes 11 columns and 53,940 rows
   - y- Width (mm)
   - z- Depth (mm)
     
-  
+# Contents of this Repository- 
+
+- Notebooks-
+   - Jupyter Notebook of the code used to apply all of the steps outlined below in the "Process" section 
+- Data- 
+   - A copy of the original data in the "Raw" folder 
+   - A copy of the cleaned data in the "Clean" folder 
+ - Models and Scalers- 
+    - Files of certain useful predictive models and pre-processing steps (e.g. scaling, transforming) used to create the models 
+
 # Process- 
 
 - Cleaned and processed the raw data
@@ -47,13 +56,3 @@ The dataset includes 11 columns and 53,940 rows
   - Tested and found that we should reject both Null Hypotheses listed below- 
    - Null Hypothesis (H0): Dimensions (length, width and depth) have no impact on a diamond's price
    - Null Hypothesis (H0): Carats, total depth percentage, and table (width of top of diamond relative to widest point) have no impact on a diamond's    price
-
-# Contents of this Repository- 
-
-- Notebooks-
-   - Jupyter Notebook of the code used to apply all of the steps outlined above in the "Process" section 
-- Data- 
-   - A copy of the original data in the "Raw" folder 
-   - A copy of the cleaned data in the "Clean" folder 
- - Models and Scalers- 
-    - Pickle files of the predictive models and pre-processing steps (e.g. scaling, transforming) used to create the models 
