@@ -9,25 +9,16 @@ The dataset was taken from  Kaggle and can be found here- https://www.kaggle.com
 The dataset includes 11 columns and 53,940 rows
 
 ## Features-
-  ## Carat Weight 
-  ## Cut- 
-    Quality of the Cut (Fair, Good, Very Good, Premium, Ideal)
-  ## Color- 
-    Color of Diamond from J (Worst) to D (Best)
-  ## Clarity- 
-    Clarity of Diamond (I1 (Worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (Best))
-  ## Depth- 
-    Total Depth Percentage = z / mean(x, y) = 2 * z / (x + y) 
-  ## Table- 
-    Width of top of diamond relative to widest point 
-  ## Price-
-    In USD ($)
-  ## x- 
-    Length (mm) 
-  ## y- 
-    Width (mm)
-  ## z- 
-    Depth (mm)
+  Carat Weight 
+  Cut- Quality of the Cut (Fair, Good, Very Good, Premium, Ideal)
+  Color- Color of Diamond from J (Worst) to D (Best)
+  Clarity- Clarity of Diamond (I1 (Worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (Best))
+  Depth- Total Depth Percentage = z / mean(x, y) = 2 * z / (x + y) 
+  Table- Width of top of diamond relative to widest point 
+  Price- USD ($)
+  x- Length (mm) 
+  y- Width (mm)
+  z- Depth (mm)
     
   
 # Process- 
