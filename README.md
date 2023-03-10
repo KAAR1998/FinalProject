@@ -2,6 +2,8 @@
 
 Using a dataset of close to 54,000 diamonds' prices and attributes I conducted data analysis, visualisation and numerous predictions to find the optimal model to predict the price of a diamond based on their characteristics. 
 
+Once the optimal model had been found, I applied it towards building an application that effectively predicts the price of your diamond if all the necessary attributes are are entered. The code for the building of the application can be found in the "app" folder within this repository. 
+
 #  Data 
 
 The dataset was taken from  Kaggle and can be found here- https://www.kaggle.com/datasets/shivam2503/diamonds. 
