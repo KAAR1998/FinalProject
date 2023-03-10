@@ -8,7 +8,7 @@ Once the optimal model had been found, I applied it towards building an applicat
 
 The dataset was taken from  Kaggle and can be found here- https://www.kaggle.com/datasets/shivam2503/diamonds. (Author: Shivam Agrawal) 
 
-The dataset includes 11 columns and 53,940 rows
+The dataset includes 11 columns and 53,940 rows.
 
 ## Columns-
   - Carat Weight 
